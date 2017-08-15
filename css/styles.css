@@ -7,11 +7,12 @@ li{
 }
 
 .content{
+    box-sizing: border-box;
     height: 1000px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     border: 1px solid black;
     background-color: dimgray;
-    font-weight: 600;
+    font-weight: 500;
     padding: 5px;
 }
